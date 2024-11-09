@@ -1,0 +1,47 @@
+.card {
+  width: 25%;
+  height: 330px;
+  background-color: rgba(30, 29, 30, 0.662);
+  margin: auto;
+  margin-top: 15%;
+  padding: 2%;
+}
+
+.name {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+.location {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+
+.name-div {
+  background-color: seagreen;
+  margin-bottom: -5px;
+}
+
+.buttons {
+  justify-content: space-around;
+  margin-top: 10%;
+  margin: auto;
+  text-align: center;
+}
+
+.button {
+  width: 90%;
+  height: 30px;
+  background-color: rgba(30, 29, 30, 0.662);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-top: 3%;
+  font-weight: bold;
+}
+
+.button:hover {
+  cursor: pointer;
+}
